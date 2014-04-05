@@ -14,7 +14,7 @@ void waitForExit();
 int _tmain(int argc, _TCHAR* argv[])
 {
 	
-	main5_2(argc,argv);
+	main5_4(argc,argv);
 
 	waitForExit();
 	return 0;

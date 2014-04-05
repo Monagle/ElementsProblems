@@ -45,10 +45,3 @@ unsigned int swapBits(unsigned int x, unsigned int i, unsigned int j)
 	jBit >>= diff;
 	return removedBits + iBit + jBit;
 }
-
-void printAsBinary(unsigned int num)
-{	
-	char buffer [64];
-	_itoa_s (num,buffer,2);
-	printf ("%s\n",buffer);
-}
