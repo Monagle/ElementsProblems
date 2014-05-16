@@ -42,6 +42,9 @@
     <ClInclude Include="5.5.h">
       <Filter>Header Files\Chapter 5</Filter>
     </ClInclude>
+    <ClInclude Include="5.12.h">
+      <Filter>Header Files\Chapter 5</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -60,6 +63,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="5.5.cpp">
+      <Filter>Source Files\Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="5.12.cpp">
       <Filter>Source Files\Chapter 5</Filter>
     </ClCompile>
   </ItemGroup>
