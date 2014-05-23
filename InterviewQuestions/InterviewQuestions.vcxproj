@@ -80,6 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="5.12.h" />
+    <ClInclude Include="5.13.h" />
     <ClInclude Include="5.4.h" />
     <ClInclude Include="5.5.h" />
     <ClInclude Include="common.h" />
@@ -88,6 +89,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="5.13.cpp" />
     <ClCompile Include="5.2.cpp" />
     <ClCompile Include="5.4.cpp" />
     <ClCompile Include="5.5.cpp" />

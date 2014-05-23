@@ -24,7 +24,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	SetCurrentConsoleFontEx(outcon,false,font);
 	do{
 		cout <<"Begin:\n";
-		main5_12(argc,argv);
+		main5_13(argc,argv);
 	}
 	while (waitForExit());
 	delete font;
